@@ -1,0 +1,30 @@
+main{
+    max-width: 1000px;
+    margin: auto;
+    padding: 1em;
+}
+body{
+    background-color: rgb(62, 94, 62);
+}
+
+h1{
+    text-align: center;
+}
+
+header{
+    font-size: 100px ;
+    text-align: center;
+}
+
+article, aside{
+    border: 3px solid rgb(212, 138, 89);
+    padding: 1em;
+    background-color: rgb(108, 150, 107);
+}
+
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+}
+
