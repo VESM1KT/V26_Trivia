@@ -1,5 +1,5 @@
 # Trivia
-Inngangur: 
+## Inngangur: 
 
 Friðrik, Lára og Stefán er hópurinn okkar og hugmyndin okkar var að hafa skemmtilegt trivia spil þar sem maður fer í gegnum skóg og stoppar til að svara spurningum fyrir verðlaun eða refsingu. 
 
@@ -9,24 +9,24 @@ Hérna er mynd af pappírsfrumgerð okkar
 
  
 
-Leik reglur 
+## Leik reglur 
 
-Yngstur byrjar  
+1. Yngstur byrjar  
 
-Allir byrja á byrjunar reit og fyrstur að loka reit vinnur. 
+2. Allir byrja á byrjunar reit og fyrstur að loka reit vinnur. 
 
-Þarft að lenda nákvæmlega á lokareitnum. 
+3. Þarft að lenda nákvæmlega á lokareitnum. 
 
-Þú ýtir á bláa takkan til að kasta teningnum. 
+4. Þú ýtir á bláa takkan til að kasta teningnum. 
 
-Ef þú lendir á grænum reit þá dregurðu grænt spil. 
+5. Ef þú lendir á grænum reit þá dregurðu grænt spil. 
 
-Ef þú lendir á rauðum reit þá dregurðu rautt spil. 
+6. Ef þú lendir á rauðum reit þá dregurðu rautt spil. 
 
-Gulir reitir gera ekki neitt. 
+7. Gulir reitir gera ekki neitt. 
 
-Hægt er að fá spilapeninga frá grænum spilum sem vernda þig frá rauðum spilum. 
+8. Hægt er að fá spilapeninga frá grænum spilum sem vernda þig frá rauðum spilum. 
 
-Það er nokkrar leiðir sem hægt er að taka á leiðinni að lokareitnum. 
+9. Það er nokkrar leiðir sem hægt er að taka á leiðinni að lokareitnum. 
 
-Þegar þú dregur spil, dregur manneskjan til hægri við þig spilið fyrir þig. 
+10. Þegar þú dregur spil, dregur manneskjan til hægri við þig spilið fyrir þig. 
