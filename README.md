@@ -6,7 +6,7 @@ Friðrik, Lára og Stefán er hópurinn okkar og hugmyndin okkar var að hafa sk
  
 
 Hérna er mynd af pappírsfrumgerð okkar 
-![mynd]
+![mynd](img)
  
 
 ## Leik reglur 
