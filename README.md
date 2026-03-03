@@ -60,7 +60,7 @@ Hérna eru 3d kallarnir okkar
 ![mynd](gamepieces4)
 
 Hérna eru spilapeningarnir okkar
-![mynd](blanal)
+![mynd](spilapeningar)
 
 ## Kóðinn
 
