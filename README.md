@@ -32,8 +32,12 @@ Hérna er mynd af pappírsfrumgerð okkar
 ![mynd](image.png)
 
 Hérna eru myndir af spilinu okkar að innan og utan
+
+
 innan
 ![mynd](spil_neðan)
+
+
 utan
 ![mynd](sppil_ofan)
 
