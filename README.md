@@ -34,18 +34,18 @@ Hérna er mynd af pappírsfrumgerð okkar
 Hérna eru myndir af spilinu okkar að innan og utan
 
 
-innan
+Innan
 ![mynd](spil_neðan)
 
 
-utan
+Utan
 ![mynd](spil_ofan)
 
 Hérna mynd af spilaleikmunum okkar
 ![mynd](spilahlutir)
 
 Hérna er mynd af lóðunnini okkar
-![mynd](blanal)
+![mynd](lodun)
 ## Myndband
 "https://youtu.be/-wqDhJdIqfo"
 
