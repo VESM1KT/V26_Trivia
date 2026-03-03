@@ -47,7 +47,7 @@ Hérna mynd af spilaleikmunum okkar
 Hérna er mynd af lóðunnini okkar
 ![mynd](blanal)
 ## Myndband
-
+"https://youtu.be/-wqDhJdIqfo"
 
 ## Hönnunarskrá
 Hérna er svr fyrir lokið
