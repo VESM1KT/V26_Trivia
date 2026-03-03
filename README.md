@@ -46,7 +46,17 @@ Hérna er myhnd af lóðunnini okkar
 
 
 ## Hönnunarskrá
+Hérna er svr fyrir lokið
+![mynd](Bordspil_lok(235x400))
 
+Hérna eru 3d kallarnir okkar
+![mynd](gamepieces1.PNG)
+![mynd](gamepieces2.PNG)
+![mynd](gamepieces3.PNG)
+![mynd](gamepieces4.PNG)
+
+Hérna eru spilapeningarnir okkar
+![mynd](blanal)
 
 ## Kóðinn
 
