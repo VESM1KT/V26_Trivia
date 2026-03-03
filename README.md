@@ -2,11 +2,6 @@
 ## Inngangur: 
 
 Friðrik, Lára og Stefán er hópurinn okkar og hugmyndin okkar var að hafa skemmtilegt trivia spil þar sem maður fer í gegnum skóg og stoppar til að svara spurningum fyrir verðlaun eða refsingu. 
-
- 
-
-Hérna er mynd af pappírsfrumgerð okkar 
-![mynd](image.png)
  
 
 ## Leik reglur 
@@ -30,6 +25,30 @@ Hérna er mynd af pappírsfrumgerð okkar
 9. Það er nokkrar leiðir sem hægt er að taka á leiðinni að lokareitnum. 
 
 10. Þegar þú dregur spil, dregur manneskjan til hægri við þig spilið fyrir þig.
+
+## Myndir
+
+Hérna er mynd af pappírsfrumgerð okkar 
+![mynd](image.png)
+
+Hérna eru myndir af spilinu okkar að innan og utan
+innan
+![mynd](blanal)
+utan
+![mynd](blanal)
+
+Hérna mynd af spilaleikmunum okkar
+![mynd](blanal)
+
+Hérna er myhnd af lóðunnini okkar
+![mynd](blanal)
+## Myndband
+
+
+## Hönnunarskrá
+
+
+## Kóðinn
 
 
 ## Samþykki fyrir birtingu verkefnis á vef
