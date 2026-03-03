@@ -39,7 +39,7 @@ innan
 
 
 utan
-![mynd](sppil_ofan)
+![mynd](spil_ofan)
 
 Hérna mynd af spilaleikmunum okkar
 ![mynd](spilahlutir)
