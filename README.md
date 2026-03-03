@@ -33,14 +33,14 @@ Hérna er mynd af pappírsfrumgerð okkar
 
 Hérna eru myndir af spilinu okkar að innan og utan
 innan
-![mynd](blanal)
+![mynd](spil_neðan)
 utan
-![mynd](blanal)
+![mynd](sppil_ofan)
 
 Hérna mynd af spilaleikmunum okkar
-![mynd](blanal)
+![mynd](spilahlutir)
 
-Hérna er myhnd af lóðunnini okkar
+Hérna er mynd af lóðunnini okkar
 ![mynd](blanal)
 ## Myndband
 
