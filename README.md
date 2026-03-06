@@ -48,7 +48,7 @@ Hérna er mynd af lóðunnini okkar
 
 
 ## Hönnunarskrá
-Hérna er svr fyrir lokið
+Hérna er SVG fyrir lokið
 ![mynd](Bordspil_lok(235x400).svg)
 
 Hérna eru 3d kallarnir okkar
