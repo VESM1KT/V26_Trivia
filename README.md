@@ -59,10 +59,12 @@ Hérna eru 3d kallarnir okkar
 ![mynd](gamepieces3)
 ![mynd](gamepieces4)
 
+<!-- vantar
+
 Hérna eru spilapeningarnir okkar
 ![mynd](spilap)
-
 ## Kóðinn
+
 
 
 ## Samþykki fyrir birtingu verkefnis á vef
@@ -75,3 +77,5 @@ Með undirritun staðfesti ég að:
 2. Réttur til að draga samþykki til baka: Ég er upplýst/ur um að ég get hvenær sem er dregið samþykki mitt til baka með því að senda skriflega tilkynningu til tskoli@tskoli.is.
 3. Réttur til að gleymast: Ef samþykki er dregið til baka mun Tækniskólinn fjarlægja verkefnið af vefsvæði sínu án ástæðulausrar tafar (samkvæmt rétti einstaklings til að gleymast, sbr. 17. gr. persónuverndarlaga).
 4. Tækniskólinn ber ábyrgð á meðferð persónuupplýsinga samkvæmt gildandi persónuverndarlögum.
+
+-->
