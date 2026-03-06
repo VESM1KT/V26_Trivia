@@ -1,8 +1,7 @@
 # Trivia
 ## Inngangur: 
 
-Friðrik, Lára og Stefán er hópurinn okkar og hugmyndin okkar var að hafa skemmtilegt trivia spil þar sem maður fer í gegnum skóg og stoppar til að svara spurningum fyrir verðlaun eða refsingu. 
- 
+Friðrik, Lára og Stefán er hópurinn okkar og hugmyndin okkar var að hafa skemmtilegt trivia spil þar sem maður fer í gegnum skóg og stoppar til að svara spurningum fyrir verðlaun eða refsingu. <a href="https://youtu.be/-wqDhJdIqfo"> Myndband af spilun </a>.
 
 ## Leik reglur 
 
@@ -46,8 +45,7 @@ Hérna mynd af spilaleikmunum okkar
 
 Hérna er mynd af lóðunnini okkar
 ![mynd](lodun)
-## Myndband
-"https://youtu.be/-wqDhJdIqfo"
+
 
 ## Hönnunarskrá
 Hérna er svr fyrir lokið
